@@ -1,2 +1,2 @@
-in bash
-echo "school"
+#!/bin/bash
+echo "School"
